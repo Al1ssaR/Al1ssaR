@@ -12,7 +12,7 @@
    - Верстка лендинга криптобиржи [Github Pages](al1ssar.github.io/Unistex/indexru.html)
    - Верстка лендинга на бутстрапе [Github Pages](al1ssar.github.io/Fullviewapp/)
    - Верстка лендинга вебстудии [Github Pages](al1ssar.github.io/DreamCode/)
-   - Верстка моего первого лендинга[Github Pages](al1ssar.github.io/DreamCity/)
+   - Верстка моего первого лендинга [Github Pages](al1ssar.github.io/DreamCity/)
    
 📫 Мои Контакты:
    - Telegram:  @alissar77
