@@ -11,6 +11,7 @@
     - Telegram:  @alissar77
    - Почта:     krivonosikov.aleksandr@gmail.com
    -  Vkontakte: https://vk.com/alissar77
+   - Фриланс: https://freelance.ru/alissar77
 
 <!---
 Al1ssaR/Al1ssaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
