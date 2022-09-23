@@ -8,7 +8,7 @@
        (Слайдер, модальное окно, форма)
         
 📫 Мои Контакты:
-    - Telegram:  @alissar77
+   - Telegram:  @alissar77
    - Почта:     krivonosikov.aleksandr@gmail.com
    -  Vkontakte: https://vk.com/alissar77
    - Фриланс: https://freelance.ru/alissar77
