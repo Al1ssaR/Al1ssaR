@@ -8,6 +8,7 @@
        (Слайдер, модальное окно, форма)
        
 🔍 Мои Работы:
+   - Верстка лендинга приложения [Github Pages](https://al1ssar.github.io/Multiaccount/)
    - Верстка магазина одежды [Github Pages](https://al1ssar.github.io/Womazing/index.html)     
    - Верстка лендинга криптобиржи [Github Pages](https://al1ssar.github.io/Unistex/indexru.html)
    - Верстка лендинга на бутстрапе [Github Pages](https://al1ssar.github.io/Fullviewapp/)
